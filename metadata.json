@@ -1,0 +1,6 @@
+{
+  "name": "KuroFlix - Dark Anime Streaming & Downloader Suite",
+  "description": "High-performance dark-themed anime streaming platform featuring real-time metadata streaming, responsive video player, crunchyroll-downloader API compatibility, watchlist management, personalized episode progress tracking, and Clerk account integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
